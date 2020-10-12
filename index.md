@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to Skytzopolis
 
-I'm glad you are here. I plan to talk about ...
+It's about time someone showed up... 
+Ill do my best, Im a quick learner,
+Just Bear with me
