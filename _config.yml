@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Welcome to Skytzopolis 
+author: Skytzo1838 Himself...(And people in his head)
+email: Skytzo1838@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ From my mind to yours I offer what I find Unique, From PICTURES I have taken to POETRY I have written, Personal EXPERIENCE, STORIES passed down from Generations of my elders.
+ Come with me down a Rabbit hole and experience LIFE thru my eyes.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+Facebook_username: https://www.facebook.com/skytzo.polis
+github_username:  https://github.com/Skytzopolis
 show_excerpts: true # set to false to remove excerpts on the homepage
